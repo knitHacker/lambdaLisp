@@ -1,2 +1,1 @@
-# lambdaLisp
-Lisp repl written in Haskell
+# lisp-repl
